@@ -1,0 +1,64 @@
+,Restaurant Name,Cuisine,Latitude,Longitude,Average Cost,Open After 8pm?,Brief Description
+0,Tapas Barcelona,Spanish,42.04673582,-87.67904329,20,Yes,"Festive, warm space known for Spanish small plates is adorned with colorful modern art & posters."
+1,Lao Sze Chuan,Chinese,42.0484618,-87.67947617,20,Yes,"Modern Chinese mainstay, known for an extensive selection of classic entrees in a stylish airy interior making it a festive space."
+2,5411 Empanadas,Spanish,42.04730999,-87.68184903,13,Yes,"Known for Argentinean empanadas & special sauces, plus beer & wine in a laid-back setting."
+3,Hokkaido Ramen,Japanese,42.04848159,-87.68272213,13,Yes,"Whimsical ramen bar, known for sushi rolls and garlic tonkatsu ramen"
+4,Tomo Japanese Street Food,Japanese,42.04961238,-87.68204562,20,Yes,"Japanese street food cafe with mobile app ordering, known for hearty ramen and udon bowls. "
+5,Kuni's Japanese Restaurant,Japanese,42.03421616,-87.67849042,20,Yes,Mainstay lures locals and is known for sushi & traditional Japanese cuisine in a warm space with light wood.
+6,Kansaku,Japanese,42.04544263,-87.68183655,27,Yes,"Known for market-fresh sushi, noodles & Japanese standards prepared in a contemporary, intimate space."
+7,Taco Diablo,Mexican,42.04705401,-87.68631413,20,Yes,"Nondescript joint known for Mexican favorites, including tacos & memorable margaritas."
+8,Fridas,Mexican,42.04809707,-87.68002565,20,No,"Low-key restaurant serving Mexican-inspired breakfast & lunch, plus wraps, pancakes & French toast."
+9,Edzo's Burger Shop,Burgers,42.04633412,-87.68066171,13,No,"Bustling burger joint known for creative topping combos, plus fries & shakes in simple surrounds."
+10,Kabul House,Mediterranean,42.04136907,-87.70620141,20,Yes,Classic Afghan fare known for halal meats & vegetarian items is served in a stylish space with BYOB.
+11,Table to Stix Ramen,Japanese,42.04730099,-87.68487647,20,Yes,Known for noodle bowls with Japanese & Korean ingredients plus small plates served in a sleek storefront.
+12,Cross Rhodes,Mediterranean,42.03469908,", -87.67915254400617",13,Yes,"Local staple known for gyros, pitas & other Greek grub in a tiny, no-frills space known for its fries."
+13,Trattoria Demi,Italian,42.04624359,-87.68150679,20,Yes,Warm space & sidewalk seats known for Italian staples from shrimp scampi to meatball sandwiches & wine.
+14,Trattoria DOC,Italian,42.03393014,-87.68085457,20,Yes,"Known for Italian favorites plus wood-fired pizzas served up in an open, bright space popular with families."
+15,Campagnola,Italian,42.03276222,-87.67884834,27,Yes,Known for simply prepared Italian dishes using local ingredients in a comfy space with exposed brick.
+16,Dave's Italian Kitchen,Italian,42.05889913,-87.68145374,20,Yes,"Compact Italian eatery known for housemade pizzas, pasta dishes & calzones in a cozy setting."
+17,Panino's Pizzeria,Pizza,42.04101824,-87.70003525,20,Yes,"Casual outpost of a small chain, known for pies & other Italian fare with lunch specials & a full bar."
+18,Sweet Green,Salad,42.04735948,-87.6814409,20,Yes,Locavore-friendly counter-serve chain known for organic salads & bowls. Spacious.
+19,Picnic,Salad,42.04686606,-87.67885248,13,Yes,"Health food takeout, delivery, and catering joint known for salads and warm bowls. "
+20,Soul & Smoke,BBQ,42.05756502,-87.69453102,20,Yes,"Soul-filled hideaway known for ribs, mac and cheese, and the combination of spices in Chef Carter’s signature sauce. "
+21,Union Pizzeria,Pizza,42.04102357,-87.67993293,20,Yes,Known for wood-fired Neopolitan pizzas in a brick setting. Quaint meals.
+22,Graduate Homestead Room,American,42.04664036,-87.676463,27,Yes,Attached to the Graduate Hotel and known contemporary yet classic American flavors
+23,Philz Coffee,Coffee,42.04684985,-87.68657394,13,No,"Laid-back local chain known for custom-blended coffees, plus teas, specialty drinks & pastries."
+24,Brothers K Coffeehouse,Coffee,42.03391328,-87.67791315,13,No,"Buzzy coffee shop known for Chicago-roasted Metropolis java, Italian-style espresso & baked goods."
+25,Rezas,Mediterranean,42.04596872,-87.68167577,27,Yes,"Known for Mediterranean & Persian cuisine, including vegetarian options, served in a relaxed restaurant."
+26,Elephant & Vine,Vegetarian,42.04871671,-87.68130247,13,Yes,"Vegan restaurant known for ""I can't believe it's vegan"" traditional American fare such as burgers and chicken tenders. "
+27,Barn Steakhouse,American,42.04822518,-87.68611028,50,Yes,"Chic spot known for New American fare, steaks & cocktails in rustic surrounds at a former stable."
+28,Clarkes Off Campus,American,42.04682296,-87.68236592,20,No,"Simple outpost of small local chain known for breakfast, burgers & soups, with some sidewalk seating."
+29,Zentli,Mexican,42.04143758,-87.69819401,13,Yes,Hidden-away casual Mexican eatery known for delicious tacos and vegetarian options in a warm community space.
+30,LeTour,French,42.04684114,-87.68062434,50,Yes,"Amy Morton’s newest eatery, known for contemporary French-Moroccan fare. "
+31,Jimmy Johns,American,42.04952624,-87.68147411,13,No,"Counter-serve chain known for sub & club sandwiches, plus signature potato chips."
+32,Evanston Chicken Shack,American,42.05285324,-87.6874112,13,Yes,"Bare-bones haunt known for Southern-style chicken, fish & rib dinners, mostly for takeout."
+33,Celtic Knot Public House,Irish,42.04808385,-87.67942827,20,Yes,"Boisterous saloon known for Irish pub grub, booze & live music in comfortable surroundings."
+34,Papa Bop,Korean,42.03745787,-87.67968705,20,No,Known for traditional and authentic Korean cuisine that will fill your stomach and your soul
+35,Fonda Cantina,Mexican,42.04973233,-87.68293397,20,Yes,Locally-owned restaurant known for traditional Mexican dishes and cocktails.
+36,Peppercorns Kitchen,Chinese,42.04660277,-87.68091152,20,Yes,"Spacious locale known for contemporary Sichuan dishes such as Kung Pao beef & pigs feet, plus lunch."
+37,Tealicious,Bubble Tea,42.04601254,-87.68130026,13,Yes,"Known for bubble tea, smoothies, and bentos in a whimsical setting. Extensive selection."
+38,Le Peep,Breakfast,42.04864279,-87.68289409,20,No,Casual breakfast & lunch chain known for a long menu of straightforward fare & coffee drinks.
+39,Alcove,American,42.04762503,-87.68466317,40,Yes,Upscale & quirky spot in a train station known for nventive American fare plus an outdoor patio.
+40,Oceanique,Seafood,42.03407838,-87.67802352,50,Yes,"Eco-friendly spot known for fish & fowl plus acclaimed wines & a tasting menu in a sharp, modern space."
+41,Kung Fu Tea,Bubble Tea,42.04991203,-87.68111057,13,Yes,"Bubble tea specialist also known for other hot & cold drinks, including coffee & slushes."
+42,Claire's Korner,Jamaican,42.0524826,-87.69822174,13,Yes,Jamaican hut known for oxtails. Compact.
+43,Mt. Everest Restaurant,South Asian,42.04812079,-87.6804199,20,Yes,"Warm, bright spot known for Indian & Nepalese food plus popular lunch buffet & imported Indian beers."
+44,Mumbai Indian Grill,South Asian,42.04967748,-87.68197163,13,Yes,"Small, simple operation known for typical curries & tandoori meats for eat-in or take-out. Simple concept."
+45,Steak n' Shake,Burgers,42.02686678,-87.70633172,13,Yes,Chain known for steakburgers & milkshakes offering a dinerlike space with retro flair. Burgers are popular.
+46,Chipotle,Mexican,42.04867867,-87.6807874,13,Yes,"Fast-food chain known for Mexican fare, including design-your-own burritos, tacos & bowls."
+47,Taste of Nepal,South Asian,42.04616392,-87.68031857,20,Yes,South Asian eatery known for momo dumplings. Cozy food.
+48,Shangri-La Evanston,South Asian,42.04595833,-87.67860966,13,Yes,Indo-Chinese fusion restaurant known for noodles and cocktails in a relaxed setting.
+49,Epic Burger,Burgers,42.04804351,-87.68212591,20,Yes,Chain hamburger restaurant known for variety in burger patty meats.
+50,Joy Yee Noodle,Chinese,42.04634357,-87.67852329,20,Yes,BYOB eatery known for an extensive menu of Pan-Asian offerings & smoothies in a basic setting.
+51,Sketchbook Brewing Co,Brewery,42.03298327,-87.67880667,20,Yes,"Brewery & tasting room known for pouring a dozen or more beers on tap or in growlers, with tours."
+52,Kilwin's,Chocolate,42.04948979,-87.68207616,20,Yes,"Old-fashioned confectionery chain known for chocolates, ice cream, handmade sweets & gift baskets."
+53,Pâtisserie Coralie,Coffee,42.04622252,-87.68000976,13,No,Intimate cafe known for classic French baked goods including macarons plus Julius Meinl coffee drinks in a quaint setting.
+54,Cozy Noodles and Rice,Thai,42.04708196,-87.68595317,13,Yes,"Bright BYOB known for traditional Thai fare in digs adorned with lunchboxes, toys & other kitsch. Casual atmosphere"
+55,Nakorn,Thai,42.04773355,-87.68126899,27,Yes,"Upscale Thai eatery serving sophisticated dishes & cocktails amid stylish, eclectic decor."
+56,Prairie Moon,American,42.04753141,-87.67884548,20,Yes,Casual restaurant & bar known for regional American food & a large menu of craft beers. Cozy setting.
+57,Hecky's BBQ,American,42.05272159,-87.68828683,20,No,"Long-standing outpost known for ribs, brisket, BBQ sandwiches & sides, for carryout or delivery only."
+58,Soban Korea,Korean,42.05854316,-87.68268364,13,Yes,Locally owned Korean restaurant known for hot spicy soups and bibimbap. Laid-back
+59,Burger King,Burgers,42.04207024,-87.69671712,13,Yes,"Well-known fast-food chain known for grilled burgers, fries & shakes."
+60,Sarah's Brick Oven,Mediterranean,42.02672783,-87.72874904,20,No,"Israeli cafe with Mediterranean and Italian influences, attached to supermarket, known for pizza and shakshouka. "
+61,Leonidas Cafe Chocolaterie,Chocolate,42.06448089,-87.69910418,20,No,"Known for fresh Belgian waffles, crepes & chocolate served in a quaint storefront alongside coffee & cocoa."
+62,Evanston Games & Cafe,Coffee,42.04761009,-87.68510332,13,Yes,Board game cafe known for tournaments and coffee.
