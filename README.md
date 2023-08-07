@@ -4,7 +4,7 @@ This repository houses a comprehensive project aimed at building a recommendatio
 # Objective:
 The primary goal of the assignment is to gain insight into different systems of reccommendaiton. In particular, we will focus on popularity matching, content based filtering, and collaborative filtering methods. All three of these methods are important problems in the technology and data science communities. Broadly speaking, the outcome variable of interest in this dataset will be the user review score. We will at times do direct predictive modeling methods to predict the user review score from the data. However, much of our analysis will also focus on how to find similar restaurants and similar users across the dataset. Reccommendations can then be made by finding restaurants that are similar to other restaurants the user enjoyed.
 
-- popularity Matching: ranks restaurants based on overall popularity, such as the number of reviews or average rating, to provide recommendations. 
+- Popularity Matching: ranks restaurants based on overall popularity, such as the number of reviews or average rating, to provide recommendations. 
 - Content-Based Filtering: analyzes the specific attributes of restaurants, such as cuisine or price range, and matches them to a user's previously liked or interacted items. 
 - Collaborative Filtering: identifies relationships between users and items, recommending restaurants that similar users have liked.
 - Predictive Modeling: predicts user review scores based on various features like restaurant attributes or user demographics. The predictions can help identify potential user preferences for making targeted recommendations and make comparisons between models.
